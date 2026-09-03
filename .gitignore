@@ -1,0 +1,82 @@
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+
+.ipynb_checkpoints/
+
+# ==============================
+# Virtual Environments
+# ==============================
+
+venv/
+env/
+.venv/
+
+# ==============================
+# Environment Variables
+# ==============================
+
+.env
+.env.*
+
+# ==============================
+# OS Generated Files
+# ==============================
+
+.DS_Store
+Thumbs.db
+
+# ==============================
+# IDE / Editor Files
+# ==============================
+
+.vscode/
+.idea/
+
+# ==============================
+# Large Dataset Files
+# ==============================
+
+*.RData
+*.rdata
+*.Rda
+*.rda
+
+*.zip
+
+# C-MAPSS raw datasets
+train_FD001.txt
+test_FD001.txt
+RUL_FD001.txt
+
+# ==============================
+# Temporary / Generated Files
+# ==============================
+
+*.tmp
+*.temp
+*.log
+
+# ==============================
+# Model Files
+# ==============================
+
+*.pkl
+*.pickle
+*.joblib
+
+# ==============================
+# Generated Outputs
+# ==============================
+
+outputs/
+artifacts/
+models/
